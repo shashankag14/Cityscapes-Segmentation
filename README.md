@@ -1,5 +1,5 @@
 # SemanticSegmentation
-A project based on neural networks for semantic segmentation 
+A project based Semantic Segmentation for the course on Neural Networks (Theory and Implenentation) at Universität des Saarlandes, Germany.
 
 ## Task 1 : 
 Semantic segmentation on PASCAL VOC Dataset using R2UNET Arch.
